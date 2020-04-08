@@ -5,7 +5,7 @@ Es un nuevo servicio que nace de nuestra empresa Pensamiento Activo con el objet
 
 URL de la aplicación: [Reconstruyete](https://app.reconstruyete.mx/)
 
-![Reconstruyete](https://apps.ikonlab.mx/reconstruyete.png)
+![Reconstruyete](https://apps.ikonlab.mx/reconstruyete.jpg)
 
 Sitio web: <https://reconstruyete.mx>
 
